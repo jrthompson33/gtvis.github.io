@@ -18,7 +18,7 @@ research_interests:
 - Graphic Design
 - Interactive Authoring Tools
 - Data Storytelling
-role: Post Doc Researcher, Microsoft Research
+role: Research Scientist, Autodesk
 twitter: https://twitter.com/jr_thomp
 website: http://jrthomp.com/
 ---
